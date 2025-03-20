@@ -44,4 +44,4 @@ Once the time has expired, **all poll data is automatically deleted**.
 
 ✅ Automatically delete poll data
 
----This project aims to create a fast feedback system
+---
